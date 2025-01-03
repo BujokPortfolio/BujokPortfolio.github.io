@@ -38,7 +38,7 @@
     <h1>ŠKOLNÍ PROJEKTY</h1>
 
     <section>
-        <h1>XS</h1>
+       
     
     <h1>XS</h1>
     <h3>LÁVKA PŘES RENNERŮV POTOK, KRKONOŠE</h3>
