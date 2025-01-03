@@ -16,7 +16,7 @@ section {
     margin-bottom: 60px;
     }
 
-    </style>
+</style>
     <h1>PŘÍSTUP K PORTFOLIU</h1>
 
     <section>
@@ -28,8 +28,10 @@ section {
     <section>
 
     <h1>ŠKOLNÍ PROJEKTY</h1>
+    
     <section>
     <section>
+    
     <h1>XS</h1>
     <h3>LÁVKA PŘES RENNERŮV POTOK, KRKONOŠE</h3>
     <h3>Propojení lavičky a lávky​</h3>
