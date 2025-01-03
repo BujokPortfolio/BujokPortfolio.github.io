@@ -1,39 +1,44 @@
-<title>ŠKOLNÍ PROJEKTY</title> <style> /* Apply the Bahnschrift font to the entire page */ body { font-family: "Bahnschrift", sans-serif; margin: 10px; line-height: 1.6; }
-h1, h2, h3, p {
-    font-family: "Bahnschrift", sans-serif;
-    color: #333;
-}
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ŠKOLNÍ PROJEKTY</title>
+    <style>
+        /* Apply the Bahnschrift font to the entire page */
+        body {
+            font-family: "Bahnschrift", sans-serif;
+            margin: 10px;
+            line-height: 1.6;
+        }
+        h1, h2, h3, p {
+            font-family: "Bahnschrift", sans-serif;
+            color: #333;
+        }
+        h1, h2 {
+            font-size: 80pt;
+        }
+        h3, p {
+            font-size: 12pt;
+        }
+        section {
+            margin-bottom: 60px;
+        }
+    </style>
+</head>
+<body>
 
-h1, h2 {
-    font-size: 80pt;
-}
+<h1>PŘÍSTUP K PORTFOLIU</h1>
 
-h3, p {
-    font-size: 12pt;
-}
-
-section {
-    margin-bottom: 60px;
-    }
-
-</style>
-    <h1>PŘÍSTUP K PORTFOLIU</h1>
-
-    <section>
-
+<section>
     <p>V portfoliu prezentuji projekty, na kterých jsem pracoval ve všech fázích od úvodní studie po autorský dozor. Pro stručnost nezmiňuji všechny fáze, ale spíše ukazuji klíčové aspekty práce.</p>
-
     <p>V závěru prezentuji analogovou fotografii (Pentax MX), která je mým primárním zájmem mimo architekturu</p>
+</section>
 
-    </section>
-
-    <section>
-
+<section>
     <h1>ŠKOLNÍ PROJEKTY</h1>
-    
-     </section>
 
     <section>
+        <h1>XS</h1>
     
     <h1>XS</h1>
     <h3>LÁVKA PŘES RENNERŮV POTOK, KRKONOŠE</h3>
