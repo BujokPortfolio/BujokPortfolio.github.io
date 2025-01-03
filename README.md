@@ -16,19 +16,19 @@ section {
     margin-bottom: 60px;
     }
 
-</style>
-<h1>PŘÍSTUP</h1>
+    </style>
+    <h1>PŘÍSTUP K PORTFOLIU</h1>
 
-<section>
+    <section>
 
     <p>V portfoliu prezentuji projekty, na kterých jsem pracoval ve všech fázích od úvodní studie po autorský dozor. Pro stručnost nezmiňuji všechny fáze, ale spíše ukazuji klíčové aspekty práce.</p>
 
     <p>V závěru prezentuji analogovou fotografii (Pentax MX), která je mým primárním zájmem mimo architekturu</p>
 
-<section>
+    <section>
 
     <h1>ŠKOLNÍ PROJEKTY</h1>
-
+    <section>
     <section>
     <h1>XS</h1>
     <h3>LÁVKA PŘES RENNERŮV POTOK, KRKONOŠE</h3>
