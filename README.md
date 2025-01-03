@@ -25,11 +25,14 @@ section {
 
     <p>V závěru prezentuji analogovou fotografii (Pentax MX), která je mým primárním zájmem mimo architekturu</p>
 
+    </section>
+
     <section>
 
     <h1>ŠKOLNÍ PROJEKTY</h1>
     
-    <section>
+     </section>
+
     <section>
     
     <h1>XS</h1>
