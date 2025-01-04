@@ -182,10 +182,10 @@
 
     <section>
     <h1>XXL</h1>
-    <h3>NÁMĚSTÍ TUCHLOVICE</h3>
+    <h3>SMÍRČÍ NÁMĚSTÍ, TUCHLOVICE</h3>
     <h3>Stávající stav</h3>
 
-    <p>Tuchlovické náměstí postrádá charakter skutečného městského centra. Neslouží pro pohodlný pohyb chodců, pořádání kulturních akcí ani jako soudržný veřejný prostor. Je prostorem vetknutým mezi ulici Ke Stráži a rychlostní silnicí. prostor trpí špatným propojením občanské vybavenosti, je nekonzistentní a nepropojený širší koncepcí. Přesto má tento prostor značný potenciál.</p>
+    <p>Současné tuchlovické náměstí postrádá charakter skutečného městského centra. Neslouží pro pohodlný pohyb chodců, pořádání kulturních akcí ani jako soudržný veřejný prostor. Je prostorem vetknutým mezi ulici Ke Stráži a rychlostní silnicí. prostor trpí špatným propojením občanské vybavenosti, je nekonzistentní a nepropojený širší koncepcí. Přesto má tento prostor značný potenciál.</p>
 
     <h3>Strategie návrhu</h3>
 
