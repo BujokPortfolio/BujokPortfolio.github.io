@@ -150,7 +150,7 @@
 
     <section>
     <h1>L</h1>
-    <h3>COMMUNITY HOUSE, HUMPOLEC</h3>
+    <h3>SPOLKOVÝ DŮM, HUMPOLEC</h3>
     <h3>Strategie rekonstrukce</h3>
     <p>Projekt se zaměřuje na rekonstrukci a možné rozšíření komplexu budov v centru Humpolce. Nedokončený blok je v současnosti nesourodou koláží základní školy, základní umělecké školy, obecního domu a multifunkčního sálu, který čeká na doplnění kavárnou a jídelnou.</p>
     
